@@ -114,7 +114,7 @@ a {
 /* placement des images */
 
 .CQR_09 {
-  grid-column: 1/ span 12;
+  grid-column: 1/ span 120;
   grid-row: 18/ span 1;
 }
 
