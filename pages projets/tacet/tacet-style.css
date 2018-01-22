@@ -50,6 +50,10 @@ header {
   text-decoration: underline ;
 }
 
+.favicon {
+  text-decoration: none ;
+}
+
 .paragraphe-1 {
   font-family: 'EB Garamond', serif;
   font-size: 18px ;
