@@ -130,7 +130,7 @@ a {
 }
 
 .CQR_07 {
-  grid-column: 2/ span 11;
+  grid-column: 3/ span 10;
   grid-row: 39/ span 1;
 }
 
@@ -140,7 +140,7 @@ a {
 }
 
 .CQR_06 {
-  grid-column: 2/ span 11;
+  grid-column: 1/ span 12;
   grid-row: 58/ span 1;
 }
 
