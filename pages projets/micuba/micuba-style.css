@@ -114,12 +114,51 @@ a {
 
 /* placement des images */
 
-.MiCuba-2 {
-  grid-column: 12/ span 10;
-  grid-row: 0/ span 1;
-  position: relative;
-  z-index: 2;
+.MiCuba-1 {
+  grid-column: 1/ span 12;
+  grid-row: 18/ span 1;
 }
+
+.MiCuba-2 {
+  grid-column: 16/ span 15;
+  grid-row: 1/ span 1;
+}
+
+.MiCuba-3 {
+  grid-column: 16/ span 13;
+  grid-row: 23/ span 1;
+}
+
+.MiCuba-4 {
+  grid-column: 3/ span 10;
+  grid-row: 39/ span 1;
+}
+
+.MiCuba-5 {
+  grid-column: 16/ span 15;
+  grid-row: 48/ span 1;
+}
+
+.MiCuba-6 {
+  grid-column: 1/ span 12;
+  grid-row: 58/ span 1;
+}
+
+.MiCuba-7 {
+  grid-column: 3/ span 10;
+  grid-row: 76/ span 1;
+}
+
+.MiCuba-8 {
+  grid-column: 16/ span 10;
+  grid-row: 70/ span 1;
+}
+
+.MiCuba-9 {
+  grid-column: 16/ span 10;
+  grid-row: 70/ span 1;
+}
+
 
 /*
 .grille article a {
