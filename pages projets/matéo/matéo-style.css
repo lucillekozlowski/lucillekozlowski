@@ -56,6 +56,13 @@ header {
   color: rgb(235,95,96) ;
 }
 
+a {
+  text-decoration: underline ;
+  z-index: 2;
+  color: rgb(235,95,96) ;
+
+}
+
 .paragraphe-2 {
   font-family: 'EB Garamond', serif;
   font-size: 18px ;
