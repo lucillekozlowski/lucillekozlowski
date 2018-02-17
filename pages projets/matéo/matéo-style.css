@@ -139,6 +139,12 @@ a {
   grid-column: 3/ span 10;
   grid-row: 52/ span 1;
 }
+
+.Matéo_05{
+  grid-column: 16/ span 12;
+  grid-row: 35/ span 1;
+}
+
 /*
 .grille article a {
   font-size: 0;
