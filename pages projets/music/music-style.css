@@ -120,19 +120,19 @@ a {
 
 /* placement des images */
 
-.COMPO_01{
-  grid-column: 17/ span 9;
+.COMPO_1{
+  grid-column: 17/ span 11;
   grid-row: 1/ span 1;
 }
 
-.COMPO_02{
-  grid-column: 1/ span 12;
-  grid-row: 18/ span 1;
+.COMPO_2{
+  grid-column: 3/ span 11;
+  grid-row: 9/ span 1;
 }
 
-.COMPO_03{
-  grid-column: 17/ span 12;
-  grid-row: 29/ span 1;
+.COMPO_3{
+  grid-column: 17/ span 11;
+  grid-row: 25/ span 1;
 }
 
 
