@@ -44,13 +44,6 @@ header {
   color: rgb(235,95,96) ;
 }
 
-header .en {
-  font-family: 'Prompt', sans-serif ;
-  font-size: 18px ;
-  text-decoration: underline;
-  color: rgb(235,95,96) ;
-}
-
 header .fr {
   font-family: 'Prompt', sans-serif ;
   font-size: 18px ;
@@ -81,7 +74,7 @@ header .fr {
 
 /* fr */
 
-header .fr {
+/* header .fr {
   justify-content: right;
   z-index: 2;
   position: relative;
@@ -90,7 +83,7 @@ header .fr {
   font-size: 18px ;
   font-weight: 500 ;
 }
-
+*/
 /* menu */
 
 a {
