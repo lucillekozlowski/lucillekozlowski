@@ -3,8 +3,8 @@ html * {
 }
 
 html {
-  background: rgb(223,242,253);
-  color: #787d82;
+  background: rgb(254,248,239);
+  /* color: #787d82; */ 
   width: 100%;
 }
 
