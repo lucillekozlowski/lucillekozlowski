@@ -4,7 +4,7 @@ html * {
 
 html {
   background: rgb(254,248,239);
-  /* color: #787d82; */ 
+  /* color: #787d82; */
   width: 100%;
 }
 
@@ -28,31 +28,31 @@ header h1 {
 }
 
 header {
-  background: rgb(223,242,253);
+  background: rgb(254,248,239);
   display: flex;
   justify-content: space-between ;
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 10px ;
   color: rgb(235,95,96) ;
   margin-bottom: 16px ;
 }
 
 .header h1{
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 18px ;
-  font-weight: 500 ;
+  font-weight: 600 ;
   color: rgb(235,95,96) ;
 }
 
 header .en {
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 18px ;
   text-decoration: underline;
   color: rgb(235,95,96) ;
 }
 
 header .fr {
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 18px ;
   text-decoration: underline;
   color: rgb(235,95,96) ;
@@ -86,7 +86,7 @@ header .fr {
   z-index: 2;
   position: relative;
   margin-right: 140px ;
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 18px ;
   font-weight: 500 ;
 }
@@ -94,13 +94,13 @@ header .fr {
 /* menu */
 
 a {
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif;
   font-size: 16px ;
   color: rgb(235,95,96) ;
 }
 
 .menu {
-  font-family: 'Prompt', serif;
+  font-family: 'EB Garamond', serif;
   font-weight: 400;
   font-style: normal;
   font-size: 12px;
@@ -155,19 +155,19 @@ a {
 }
 
 .grille article figure h3 {
-  font-size: 14px;
+  font-size: 16px;
   position: absolute;
   bottom: -2.6em;
   opacity: 0;
   line-height: 1;
-  font-family: 'Prompt';
+  font-family: 'EB Garamond';
   font-weight: 400;
   color: rgb(235,95,96) ;
   text-decoration: none;
 }
 
 h3 {
-  font-family: 'Prompt';
+  font-family: 'EB Garamond';
   font-weight: 400;
   color: rgb(235,95,96) ;
   text-decoration: none;
@@ -207,12 +207,12 @@ h3 {
 
 .CQR {
   grid-column: 3/ span 11;
-  grid-row: 3/ span 1;
+  grid-row: 4/ span 1;
 }
 
 .Poster {
   grid-column: 18 / span 10;
-  grid-row: 3 / span 4;
+  grid-row: 4/ span 4;
 }
 
 .mémory{
