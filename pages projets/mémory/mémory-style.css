@@ -3,8 +3,8 @@ html * {
 }
 
 html {
-  background: rgb(223,242,253);
-  color: #787d82;
+  background: rgb(254,248,239);
+  /* color: #787d82; */
   width: 100%;
 }
 
@@ -35,17 +35,17 @@ header h1 {
 }
 
 header {
-  background: rgb(223,242,253);
+  background: rgb(254,248,239);
   display: flex;
   justify-content: space-between ;
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif ;
   font-size: 10px ;
   color: rgb(235,95,96) ;
   margin-bottom: 16px ;
 }
 
 .header h1{
-  font-family: 'Prompt', sans-serif ;
+  font-family: 'EB Garamond', serif ;
   font-size: 18px ;
   font-weight: 500 ;
   color: rgb(235,95,96) ;
