@@ -3,7 +3,7 @@ html * {
 }
 
 html {
-  background: rgb(223,242,253);
+  background: rgb(254,248,239);
   /* color: #787d82; */
   width: 100%;
 }
@@ -32,7 +32,7 @@ header h1 {
 }
 
 header {
-  background: rgb(223,242,253);
+  background: rgb(254,248,239);
   display: flex;
   justify-content: space-between ;
   font-family: 'EB Garamond', serif;
@@ -120,31 +120,30 @@ a {
 
 /* placement des images */
 
-.Matéo_01{
-  grid-column: 17/ span 9;
-  grid-row: 1/ span 1;
+.Athènes_01 {
+  grid-column: 14/ span 10;
+  grid-row: 1/ span 2;
 }
 
-.Matéo_02{
+.Athènes_02 {
+  grid-column: 1/ span 11;
+  grid-row: 12/ span 1;
+}
+
+.Athènes_03 {
+  grid-column: 14/ span 10;
+  grid-row: 28/ span 1;
+}
+
+.Athènes_05 {
+  grid-column: 16/ span 15;
+  grid-row: 48/ span 1;
+}
+
+.Athènes_06 {
   grid-column: 1/ span 12;
-  grid-row: 18/ span 1;
+  grid-row: 58/ span 1;
 }
-
-.Matéo_03{
-  grid-column: 17/ span 12;
-  grid-row: 29/ span 1;
-}
-
-.Matéo_04{
-  grid-column: 3/ span 10;
-  grid-row: 54/ span 1;
-}
-
-.Matéo_05{
-  grid-column: 17/ span 12;
-  grid-row: 67/ span 1;
-}
-
 /*
 .grille article a {
   font-size: 0;
