@@ -215,10 +215,10 @@ h3 {
   grid-row: 4/ span 4;
 }
 
-/* .mémory{
+/* .mémory {
   grid-column: 1/ span 13;
   grid-row: 22/ span 29;
-} */
+}*/ 
 
 .tacet{
   grid-column: 2/ span 12;
@@ -228,7 +228,7 @@ h3 {
 /* .marbrés{
   grid-column: 18/ span 9;
   grid-row: 35/ span 31;
-}*/ 
+}*/
 
 .normographes{
     grid-column: 1/ span 13;
@@ -248,11 +248,6 @@ h3 {
 .Matéo{
     grid-column: 5/ span 9;
     grid-row: 87/ span 2;
-}
-
-.Athènes{
-    grid-column: 18/ span 11;
-    grid-row: 99/ span 2;
 }
 
 /* responsive pour le menu */
