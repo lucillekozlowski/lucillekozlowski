@@ -120,24 +120,19 @@ a {
 
 /* placement des images */
 
-.Matéo_01{
+.bruits_01{
   grid-column: 17/ span 10;
   grid-row: 1/ span 1;
 }
 
-.Matéo_02{
+.bruits_02{
   grid-column: 3/ span 10;
   grid-row: 18/ span 1;
 }
 
-.Matéo_03{
+.bruits_03{
   grid-column: 17/ span 10;
   grid-row: 33/ span 1;
-}
-
-.Matéo_04{
-  grid-column: 3/ span 10;
-  grid-row: 50/ span 1;
 }
 
 /*
