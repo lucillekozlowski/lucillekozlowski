@@ -251,9 +251,10 @@ h3 {
 }
 
 .bruits{
-    grid-column: 18/ span 10 ;
+    grid-column: 18/ span 13 ;
     grid-row: 106/ span 2;
 }
+
 
 /* responsive pour le menu */
 
