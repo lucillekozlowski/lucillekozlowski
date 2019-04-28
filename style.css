@@ -255,6 +255,11 @@ h3 {
     grid-row: 106/ span 2;
 }
 
+.mémoire{
+    grid-column: 3/ span 11 ;
+    grid-row: 110/ span 2;
+}
+
 /* responsive pour le menu */
 
 @media screen and (max-width: 960px) {
