@@ -22,6 +22,7 @@ img {
 
 /* lucille k, étudiante en DG */
 
+
 header h1 {
   margin: 0;
   margin-bottom: .5em;
@@ -92,7 +93,7 @@ header .fr {
 }
 
 /* menu */
-
+/*
 a {
   font-family: 'EB Garamond', serif;
   font-size: 16px ;
@@ -121,21 +122,21 @@ a {
 .main {
   display: flex;
 }
-
+*/
 
 .grille {
   display: grid;
   grid-template-columns: repeat(auto-fill, 37px);
   grid-auto-rows: 22px;
   width: 100%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 0%;
+  margin-right: 0%;
   position: absolute;
   top: 0;
   z-index: 1;
-  padding-top: 100px;
-  margin-left: 20%;
-  margin-right: 20%;
+  padding-top: 0px;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 
 
@@ -143,12 +144,14 @@ a {
   font-size: 0;
 }
 
+/*
 .grille article figure {
   margin: 0;
   border: 1px solid rgb(235,95,96);
   font-size: 0;
   position: relative;
 }
+*/
 
 .grille article a {
   font-size: 0;
@@ -190,7 +193,7 @@ h3 {
   left: 50%;
 }
 
-.grille article img {
+/* .grille article img {
   filter: grayscale(100%);
   transition: all .2s;
 }
@@ -201,9 +204,14 @@ h3 {
 
 .grille article:hover figure::after, .grille article:hover h3 {
   opacity: 1;
-}
+} */
 
 /* placement des images */
+
+.construction {
+grid-column: 3/ span 24;
+grid-row: 1/ span 1;
+}
 
 .CQR {
   grid-column: 3/ span 11;
