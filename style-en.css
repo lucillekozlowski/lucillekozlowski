@@ -190,7 +190,7 @@ h3 {
   left: 50%;
 }
 
-.grille article img {
+/* .grille article img {
   filter: grayscale(100%);
   transition: all .2s;
 }
@@ -205,6 +205,11 @@ h3 {
 
 /* placement des images */
 
+.construction {
+grid-column: 3/ span 24;
+grid-row: 1/ span 1;
+}
+
 .CQR {
   grid-column: 3/ span 11;
   grid-row: 4/ span 1;
@@ -215,44 +220,44 @@ h3 {
   grid-row: 4/ span 4;
 }
 
-/* .mémory{
+ .tacet {
   grid-column: 1/ span 13;
-  grid-row: 22/ span 29;
-}*/
-
-.tacet{
-  grid-column: 2/ span 12;
-  grid-row: 44/ span 31;
+  grid-row: 23/ span 31;
 }
 
-/* .marbrés{
-  grid-column: 18/ span 9;
-  grid-row: 35/ span 31;
-}*/ 
+.MiCuba{
+  grid-column: 18/ span 10;
+  grid-row: 35/ span 2;
+}
+
+.épiderme{
+    grid-column: 3/ span 11;
+    grid-row: 45/ span 2;
+}
 
 .normographes{
+    grid-column: 18/ span 13;
+    grid-row: 56/ span 2;
+}
+
+.Matéo{
+    grid-column: 18/ span 9;
+    grid-row: 76/ span 2;
+}
+
+.athènes{
     grid-column: 1/ span 13;
     grid-row: 65/ span 2;
 }
 
-.MiCuba{
-  grid-column: 18/ span 11;
-  grid-row: 53/ span 2;
+.itinéraire{
+    grid-column: 3/ span 11 ;
+    grid-row: 89/ span 2;
 }
 
-.épiderme{
-    grid-column: 18/ span 13;
-    grid-row: 76/ span 2;
-}
-
-.Matéo{
-    grid-column: 5/ span 9;
-    grid-row: 87/ span 2;
-}
-
-.Athènes{
-    grid-column: 18/ span 11;
-    grid-row: 99/ span 2;
+.bruits{
+    grid-column: 18/ span 13 ;
+    grid-row: 106/ span 2;
 }
 
 /* responsive pour le menu */
