@@ -22,6 +22,7 @@ img {
 
 /* lucille k, étudiante en DG */
 
+
 header h1 {
   margin: 0;
   margin-bottom: .5em;
@@ -92,7 +93,7 @@ header .fr {
 }
 
 /* menu */
-
+/*
 a {
   font-family: 'EB Garamond', serif;
   font-size: 16px ;
@@ -121,7 +122,7 @@ a {
 .main {
   display: flex;
 }
-
+ */
 
 .grille {
   display: grid;
@@ -143,12 +144,14 @@ a {
   font-size: 0;
 }
 
+/*
 .grille article figure {
   margin: 0;
   border: 1px solid rgb(235,95,96);
   font-size: 0;
   position: relative;
 }
+*/
 
 .grille article a {
   font-size: 0;
